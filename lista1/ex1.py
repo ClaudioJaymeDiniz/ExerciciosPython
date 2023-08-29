@@ -3,3 +3,5 @@
 a = int(input('Entre com um numero: '))
 b = int(input('Entre com outro numero: '))
 print(f'{a} + {b} = {a+b}')
+
+print('ola mundo')
