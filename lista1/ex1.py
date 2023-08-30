@@ -5,3 +5,5 @@ b = int(input('Entre com outro numero: '))
 print(f'{a} + {b} = {a+b}')
 
 print('ola mundo')
+
+print('Msg de cura')
